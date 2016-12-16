@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Pb_mathematique xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <consigne>
+        Répondez aux problèmes posés.    
+    </consigne>
+    <nbRepetition>10</nbRepetition>
+    <difficulte>0</difficulte>
+    <problemes_faciles>
+        <probleme>
+        <image>
+        ImageNeutre.png
+        </image>
+        <enonce>
+            Hors-saison, un hôtel propose une chambre double à 80 euros. 
+            En pleine saison, le prix augmente de 15%. 
+            Quel est le prix de la chambre double en pleine saison?
+        </enonce>
+        <reponse>92 euros</reponse>
+        <Choix1>81,5 euros</Choix1>
+        <Choix2>92 euros</Choix2>
+        <Choix3>95 euros</Choix3>
+        <Choix4>120 euros</Choix4>
+        <difficulte>0</difficulte>
+        <dejaChoisi>false</dejaChoisi>
+        </probleme>
+        <probleme>
+        <image>
+        ImageNeutre.png
+        </image>
+        <enonce>
+            Un rectangle de 12 mètres par 8 mètres a la même surface qu’un autre rectangle dont un des côtés mesure 16 mètres. Quelle est la longueur du 2ème côté de cet autre rectangle?
+        </enonce>
+        <reponse>6 mètres</reponse>
+
+        <Choix1>3 mètres</Choix1>
+        <Choix2>4 mètres</Choix2>
+        <Choix3>6 mètres</Choix3>
+        <Choix4>8 mètres</Choix4>
+
+        <difficulte>0</difficulte>
+        <dejaChoisi>false</dejaChoisi>
+        </probleme>
+        <probleme>
+        <image>
+        ImageNeutre.png
+        </image>
+        <enonce>
+        Combien y a t-il de centimètres cubes dans un mètre cube?
+        </enonce>
+        <reponse>1000000</reponse>
+
+        <Choix1>100</Choix1>
+        <Choix2>1000</Choix2>
+        <Choix3>10000</Choix3>
+        <Choix4>1000000</Choix4>
+
+        <difficulte>0</difficulte>
+        <dejaChoisi>false</dejaChoisi>
+        </probleme>
+        <probleme>
+        <image>
+        ImageNeutre.png
+        </image>
+        <enonce>
+            La longueur d’une tige de métal augmente de 4mm à chaque fois qu’on augmente la température de 10 degrés. Quel est théoriquement l’allongement de la tige (en cm) si on augmente la température de 150 degrés? 
+        </enonce>
+        <reponse>6</reponse>
+
+        <Choix1>6</Choix1>
+        <Choix2>60</Choix2>
+        <Choix3>600</Choix3>
+        <Choix4>6000</Choix4>
+
+        <difficulte>0</difficulte>
+        <dejaChoisi>false</dejaChoisi>
+        </probleme>
+        <probleme>
+        <image>
+        ImageNeutre.png
+        </image>
+        <enonce>
+            Lionel achète un dictionnaire à 39,90 euros, un compas à 18,50 euros et trois classeurs à 2,60 euros la pièce. Il paie avec un billet de 100 euros. Combien lui rend-on ? 
+        </enonce>
+        <reponse>33,80</reponse>
+
+        <Choix1>15,20</Choix1>
+        <Choix2>25</Choix2>
+        <Choix3>33,80</Choix3>
+        <Choix4>66,20</Choix4>
+
+        <difficulte>0</difficulte>
+        <dejaChoisi>false</dejaChoisi>
+        </probleme>
+        <probleme>
+        <image>
+        ImageNeutre.png
+        </image>
+        <enonce>
+            Le litre de super 95 coûte 1,189 euros. Combien coûte un plein de 40 litres de super 95 ?</enonce>
+        <reponse>47,56</reponse>
+
+        <Choix1>25,24</Choix1>
+        <Choix2>47,56</Choix2>
+        <Choix3>50,78</Choix3>
+        <Choix4>65,21</Choix4>
+
+        <difficulte>0</difficulte>
+        <dejaChoisi>false</dejaChoisi>
+        </probleme>
+        <probleme>
+        <image>
+        ImageNeutre.png
+        </image>
+        <enonce>Un pantalon coûte 80 €, il est en solde à 30% moins cher. Combien coûte le pantalon ?</enonce>
+        <reponse>56</reponse>
+
+        <Choix1>56</Choix1>
+        <Choix2>60,5</Choix2>
+        <Choix3>72</Choix3>
+        <Choix4>77,6</Choix4>
+
+        <difficulte>0</difficulte>
+        <dejaChoisi>false</dejaChoisi>
+        </probleme>
+        <probleme>
+        <image>
+        ImageNeutre.png
+        </image>
+        <enonce>Sarah a 20 billes. Son grand-frère lui en donne 4. Sa petite sœur lui en emprunte 8. Elle gagne à un jeu 9 billes. Combien a-t-elle de billes maintenant ?</enonce>
+        <reponse>29</reponse>
+
+        <Choix1>18</Choix1>
+        <Choix2>27</Choix2>
+        <Choix3>29</Choix3>
+        <Choix4>32</Choix4>
+
+        <difficulte>0</difficulte>
+        <dejaChoisi>false</dejaChoisi>
+        </probleme>
+        <probleme>
+        <image>
+        ImageNeutre.png
+        </image>
+        <enonce>La calculatrice de Léo est vraiment en mauvais état. Les seules touches en état de marche sont 5    7     +     =. Quel nombre ne peut-il pas afficher ?</enonce>
+        <reponse>16</reponse>
+
+        <Choix1>10</Choix1>
+        <Choix2>12</Choix2>
+        <Choix3>14</Choix3>
+        <Choix4>16</Choix4>
+
+        <difficulte>0</difficulte>
+        <dejaChoisi>false</dejaChoisi>
+        </probleme>
+        <probleme>
+        <image>
+        ImageNeutre.png
+        </image>
+        <enonce>
+        Pour l’ensemble de ses chantiers, une entreprise se fournit auprès d’un grossiste. Les tarifs proposés pour des paquets de 10 dalles sont 48 euros le paquet, livraison gratuite. Quel est le prix pour une commande de 9 paquets ?
+        </enonce>
+        <reponse>432 euros</reponse>
+
+        <Choix1>200 euros</Choix1>
+        <Choix2>432 euros</Choix2>
+        <Choix3>564 euros</Choix3>
+        <Choix4>789 euros</Choix4>
+
+        <difficulte>0</difficulte>
+        <dejaChoisi>false</dejaChoisi>
+        </probleme>
+        </problemes_faciles>
+        <problemes_difficiles>
+        <probleme>
+        <image>
+        ImageNeutre.png
+        </image>
+        <enonce>Quel est l’objet qui a le plus grand volume ?</enonce>
+        <reponse>la sphère</reponse>
+
+        <Choix1>le cube</Choix1>
+        <Choix2>la sphère</Choix2>
+        <Choix3>le cylindre</Choix3>
+        <Choix4>le parallélépipède</Choix4>
+
+        <difficulte>1</difficulte>
+        <dejaChoisi>false</dejaChoisi>
+        </probleme>
+        <probleme>
+        <image>
+        ImageNeutre.png
+        </image>
+        <enonce>La somme des âges de deux enfants est de 23 ans. Sachant que le premier a 5 ans de plus que le deuxième, quel est l’âge du plus jeune?</enonce>
+        <reponse>9 ans</reponse>
+
+        <Choix1>9 ans</Choix1>
+        <Choix2>10 ans</Choix2>
+        <Choix3>11 ans</Choix3>
+        <Choix4>13 ans</Choix4>
+
+        <difficulte>1</difficulte>
+        <dejaChoisi>false</dejaChoisi>
+        </probleme>
+        <probleme>
+        <image>
+        ImageNeutre.png
+        </image>
+        <enonce>Je parcours 10 mètres en 1 seconde. Quelle est ma vitesse moyenne (en km/h)?</enonce>
+        <reponse>36</reponse>
+
+        <Choix1>18</Choix1>
+        <Choix2>36</Choix2>
+        <Choix3>40</Choix3>
+        <Choix4>56</Choix4>
+
+        <difficulte>1</difficulte>
+        <dejaChoisi>false</dejaChoisi>
+        </probleme>
+        <probleme>
+        <image>
+        ImageNeutre.png
+        </image>
+        <enonce>Dans ma tirelire, j’ai des pièces de 50 centimes et de 20 centimes. En tout, j’ai 5 euros. Combien ai-je de pièces de 50 centimes, sachant que j’ai 16 pièces en tout? </enonce>
+        <reponse>6</reponse>
+
+        <Choix1>15</Choix1>
+        <Choix2>10</Choix2>
+        <Choix3>8</Choix3>
+        <Choix4>6</Choix4>
+
+        <difficulte>1</difficulte>
+        <dejaChoisi>false</dejaChoisi>
+        </probleme>
+        <probleme>
+        <image>
+        ImageNeutre.png
+        </image>
+        <enonce>Une ville compte 2000 habitants. 12% sont des enfants, 2/8 de ce qui reste sont des femmes. Combien y a t-il d’hommes dans la ville? </enonce>
+        <reponse>1200</reponse>
+
+        <Choix1>400</Choix1>
+        <Choix2>600</Choix2>
+        <Choix3>1200</Choix3>
+        <Choix4>1600</Choix4>
+
+        <difficulte>1</difficulte>
+        <dejaChoisi>false</dejaChoisi>
+        </probleme>
+        <probleme>
+        <image>
+        ImageNeutre.png
+        </image>
+        <enonce>Bernard, un solide constructeur de routes, a besoin de huit jours pour creuser un trou de 8x8x8 mètres. De combien de jours a-t-il besoin pour creuser un trou de 4x4x4 mètres?</enonce>
+        <reponse>1</reponse>
+
+        <Choix1>0,5</Choix1>
+        <Choix2>1</Choix2>
+        <Choix3>3</Choix3>
+        <Choix4>6</Choix4>
+
+        <difficulte>1</difficulte>
+        <dejaChoisi>false</dejaChoisi>
+        </probleme>
+        <probleme>
+        <image>
+        ImageNeutre.png
+        </image>
+        <enonce>Monsieur Jean possède 57 € et il veut acheter le plus d'ananas possible. Ce jour-là les ananas coûtent 2,35 € la pièce. Combien d'ananas Monsieur Jean pourra-t-il acheter ?</enonce>
+        <reponse>24</reponse>
+
+        <Choix1>14</Choix1>
+        <Choix2>22</Choix2>
+        <Choix3>24</Choix3>
+        <Choix4>37</Choix4>
+
+        <difficulte>1</difficulte>
+        <dejaChoisi>false</dejaChoisi>
+        </probleme>
+        <probleme>
+        <image>
+        ImagePb8Difficile.png
+        </image>
+        <enonce>L’aire de chaque petit disque est de 2cm². Quelle est l’aire du grand disque (en cm²) ?</enonce>
+        <reponse>72</reponse>
+
+        <Choix1>32</Choix1>
+        <Choix2>44</Choix2>
+        <Choix3>56</Choix3>
+        <Choix4>72</Choix4>
+
+        <difficulte>1</difficulte>
+        <dejaChoisi>false</dejaChoisi>
+        </probleme>
+        <probleme>
+        <image>
+        ImageNeutre.png
+        </image>
+        <enonce>La somme de 2 nombres est 300. De combien augmente leur produit quand chaque nombre augmente de 7 ?</enonce>
+        <reponse>2149</reponse>
+
+        <Choix1>50</Choix1>
+        <Choix2>609</Choix2>
+        <Choix3>2149</Choix3>
+        <Choix4>5642</Choix4>
+
+        <difficulte>1</difficulte>
+        <dejaChoisi>false</dejaChoisi>
+        </probleme>
+        <probleme>
+        <image>
+        ImageNeutre.png
+        </image>
+        <enonce>
+        En pliant une feuille de papier en deux parties égales, dans le sens de la largeur, j'obtiens un rectangle de longueur 11 cm. L’aire de la feuille de papier est de 88 cm². Quelle est la largeur de la feuille de papier (en cm)?
+        </enonce>
+        <reponse>4</reponse>
+
+        <Choix1>4</Choix1>
+        <Choix2>5</Choix2>
+        <Choix3>6</Choix3>
+        <Choix4>7</Choix4>
+
+        <difficulte>1</difficulte>
+        <dejaChoisi>false</dejaChoisi>
+        </probleme>
+    </problemes_difficiles>
+</Pb_mathematique>
+

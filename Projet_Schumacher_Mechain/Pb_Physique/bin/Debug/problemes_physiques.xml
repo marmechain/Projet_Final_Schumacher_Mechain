@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pb_phys xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <consigne>
+        Répondez aux problèmes posés.    
+    </consigne>
+    <nbRepetition>10</nbRepetition>
+    <difficulte>0</difficulte>
+    <problemes>
+    <probleme>
+    <image>
+    Image_pb_physique_1.png
+    </image>
+    <enonce>Dans quel cas est-il le plus facile de bouger la pierre?</enonce>
+    <reponse>D</reponse>   
+    <Choix1>A</Choix1>
+    <Choix2>B</Choix2>
+    <Choix3>C</Choix3>
+    <Choix4>D</Choix4>   
+    <difficulte>0</difficulte>
+    <dejaChoisi>false</dejaChoisi>
+    </probleme>
+    <probleme>
+    <image>
+    pb_physique2.png
+    </image>
+    <enonce>Si la poulie P1 tourne dans le sens des aiguilles d'une montre, dans quel sens tournera la poulie P2 ?</enonce>
+    <reponse>Sens horaire</reponse>  
+    <Choix1>Sens horaire</Choix1>
+    <Choix2>Sens anti-horaire</Choix2>
+    <Choix3>  </Choix3>
+    <Choix4>  </Choix4> 
+    <difficulte>0</difficulte>
+    <dejaChoisi>false</dejaChoisi>
+    </probleme>
+    <probleme>
+    <image>
+    ImageNeutre.png
+    </image>
+    <enonce>Quels composés chimiques obtient-on lorsqu’on brûle du méthane dans l’air ?</enonce>
+    <reponse>Du dioxyde de carbone et de la vapeur d’eau</reponse>   
+    <Choix1>Du dioxyde de carbone et du dioxygène</Choix1>
+    <Choix2>Du dioxyde de carbone et de la vapeur d’eau</Choix2>
+    <Choix3>Du dioxygène et de la vapeur d’eau</Choix3>
+    <Choix4>Du fer et du dioxygène</Choix4>    
+    <difficulte>0</difficulte>
+    <dejaChoisi>false</dejaChoisi>
+    </probleme>
+    <probleme>
+    <image>
+    ImageNeutre.png
+    </image>
+    <enonce>En général, quand on augmente la température d’un gaz sans changer le volume, comment varie la pression ?</enonce>
+    <reponse>Elle augmente</reponse>   
+    <Choix1>Elle baisse</Choix1>
+    <Choix2>Elle augmente</Choix2>
+    <Choix3>Elle reste stable</Choix3>
+    <Choix4>On ne peut pas augmenter la température à volume constant</Choix4>
+    <difficulte>0</difficulte>
+    <dejaChoisi>false</dejaChoisi>
+    </probleme>
+    <probleme>
+    <image>
+    ImageNeutre.png
+    </image>
+    <enonce>Lorsqu’une voiture roule à 100 km/h, la résistance de l’air est proportionnelle à ?</enonce>
+    <reponse> </reponse>    
+    <Choix1>Sa masse</Choix1>
+    <Choix2>Sa vitesse</Choix2>
+    <Choix3>Au carré de sa vitesse</Choix3>
+    <Choix4>Sa masse et sa vitesse</Choix4>   
+    <difficulte>0</difficulte>
+    <dejaChoisi>false</dejaChoisi>
+    </probleme>
+    <probleme>
+    <image>
+    ImageNeutre.png
+    </image>
+    <enonce>Dans un champ magnétique :</enonce>
+    <reponse>Seuls les électrons peuvent être déviés</reponse> 
+    <Choix1>Les ions peuvent être déviés mais pas la lumière</Choix1>
+    <Choix2>La lumière peut être déviée mais pas les ions</Choix2>
+    <Choix3>La lumière et les ions peuvent être déviés</Choix3>
+    <Choix4>Seuls les électrons peuvent être déviés</Choix4>  
+    <difficulte>0</difficulte>
+    <dejaChoisi>false</dejaChoisi>
+    </probleme>
+    <probleme>
+    <image>
+    ImageNeutre.png
+    </image>
+    <enonce>De quelle couleur est le sulfate de cuivre anhydre hydraté ?</enonce>
+    <reponse>bleu</reponse>   
+    <Choix1>vert</Choix1>
+    <Choix2>rouge</Choix2>
+    <Choix3>incolore</Choix3>
+    <Choix4>bleu</Choix4>  
+    <difficulte>0</difficulte>
+    <dejaChoisi>false</dejaChoisi>
+    </probleme>
+    <probleme>
+    <image>
+    pb_physique8.png
+    </image>
+    <enonce>Quelle(s) lampes(s) va/vont s’allumer si on ferme l’interrupteur ?</enonce>
+    <reponse>Les deux lampes</reponse>  
+    <Choix1>La lampe 1</Choix1>
+    <Choix2>La lampe 2</Choix2>
+    <Choix3>Les deux lampes</Choix3>
+    <Choix4>Aucune des deux lampes</Choix4>  
+    <difficulte>0</difficulte>
+    <dejaChoisi>false</dejaChoisi>
+    </probleme>
+    <probleme>
+    <image>
+    ImageNeutre.png
+    </image>
+    <enonce>Dans un circuit électrique, quelle est la valeur de l’intensité du courant I sachant que U=20V et R=2 Ohm ?</enonce>
+    <reponse>40 A</reponse>   
+    <Choix1>40 A</Choix1>
+    <Choix2>80 A</Choix2>
+    <Choix3>22 A</Choix3>
+    <Choix4>10 A</Choix4>   
+    <difficulte>0</difficulte>
+    <dejaChoisi>false</dejaChoisi>
+    </probleme>
+    <probleme>
+    <image>
+    ImageNeutre.png
+    </image>
+    <enonce>Combien de Pa font 1 Bar ?</enonce>
+    <reponse>100000</reponse>    
+    <Choix1>10</Choix1>
+    <Choix2>100</Choix2>
+    <Choix3>1000</Choix3>
+    <Choix4>100000</Choix4>   
+    <difficulte>0</difficulte>
+    <dejaChoisi>false</dejaChoisi>
+    </probleme>
+    </problemes>
+</pb_phys>
+

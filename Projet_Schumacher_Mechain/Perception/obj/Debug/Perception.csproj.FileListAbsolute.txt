@@ -1,0 +1,6 @@
+D:\ENSC\2A\Génie Log\Projet_Complet\Projet_Schumacher_Mechain\Perception\bin\Debug\Perception.exe.config
+D:\ENSC\2A\Génie Log\Projet_Complet\Projet_Schumacher_Mechain\Perception\obj\Debug\Perception.csprojResolveAssemblyReference.cache
+D:\ENSC\2A\Génie Log\Projet_Complet\Projet_Schumacher_Mechain\Perception\obj\Debug\Perception.Perception.resources
+D:\ENSC\2A\Génie Log\Projet_Complet\Projet_Schumacher_Mechain\Perception\obj\Debug\Perception.Properties.Resources.resources
+D:\ENSC\2A\Génie Log\Projet_Complet\Projet_Schumacher_Mechain\Perception\obj\Debug\Perception.RepUser.resources
+D:\ENSC\2A\Génie Log\Projet_Complet\Projet_Schumacher_Mechain\Perception\obj\Debug\Perception.csproj.GenerateResource.Cache
